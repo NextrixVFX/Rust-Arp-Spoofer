@@ -8,7 +8,7 @@ Supports multiple targets.
 ### Usage:
 - Put the ```/Lib/``` and ```/Include/``` Directories from the Npcap SDK in your Npcap install directory. (C:/Program Files/Npcap/)
 ![image](https://github.com/user-attachments/assets/68822b2d-6d90-4235-be96-10a5702dada5)
-- Add the path ```C:/Program Files/Npcap/Lib/``` (x86) or ```C:/Program Files/Npcap/Lib/x64``` (x64) to your envoirment variables.
+- Add the path ```C:/Program Files/Npcap/Lib/``` (x86) or ```C:/Program Files/Npcap/Lib/x64``` (x64) to your environment variables.
 ![image](https://github.com/user-attachments/assets/bc545f97-2c1b-4b84-8a8a-bd6201feaf67)
 - Set your targets and put your Gateway + Mac Address
 ![image](https://github.com/user-attachments/assets/690cc8b7-3221-45b3-bfd4-edea049ac129)

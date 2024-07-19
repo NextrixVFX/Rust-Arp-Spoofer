@@ -1,0 +1,8 @@
+[package]
+name = "netkill"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macaddr = "1.0.1"
+pcap = "2.0.0"
